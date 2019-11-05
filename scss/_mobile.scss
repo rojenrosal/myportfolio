@@ -70,7 +70,9 @@ grid-template-columns: 1fr;
 
 //phones
 @include mediaSm{
-main{
+
+    main{
+
     padding: 2rem;
 
 main#home h1 {
